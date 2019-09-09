@@ -1,0 +1,4 @@
+(executables
+  (names PDP_client)
+  (libraries sodium unix)
+)

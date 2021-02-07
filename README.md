@@ -1,4 +1,4 @@
-# ProductDeliveryProtocol
+# Product Delivery Protocol in OCaml
 
 Product Delivery Protocol is a network protocol that simulates a blockchain smart contrat. A client can purchase products using their crypto money.
 
